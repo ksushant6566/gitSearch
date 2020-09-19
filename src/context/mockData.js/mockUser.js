@@ -18,17 +18,17 @@ export default {
   "type": "User",
   "site_admin": false,
   "name": "sushant ",
-  "company": null,
-  "blog": "",
-  "location": null,
-  "email": null,
+  "company": "Still studying",
+  "blog": "ksushant6566@gmail.com",
+  "location": "New Delhi, India",
+  "email": "ksushant6566@gmail.com",
   "hireable": null,
   "bio": null,
-  "twitter_username": null,
-  "public_repos": 5,
+  "twitter_username": "ksushant6566",
+  "public_repos": 8,
   "public_gists": 0,
   "followers": 0,
-  "following": 0,
+  "following": 2,
   "created_at": "2019-04-28T16:43:22Z",
-  "updated_at": "2020-08-13T12:09:22Z"
-};
+  "updated_at": "2020-09-19T15:12:45Z"
+}
