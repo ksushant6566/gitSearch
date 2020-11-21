@@ -1,9 +1,9 @@
-## Starter Project
+## Welcome to gitSearch
+#### you can search github users and see their profile details in a dasboard using beautiful charts !
 
-- css provided (global styles, styled components)
-- folders/files already setup
-- all imports included (warnings)
-- index.js for easier imports
+![image](https://github.com/ksushant6566/gitSearch/blob/master/Screenshot%20(9).png)
+![image](https://github.com/ksushant6566/gitSearch/blob/master/Screenshot%20(10).png)
+
 
 ## Styled Components
 
@@ -43,7 +43,6 @@ version used - "react-router-dom": "^5.2.0",
 
 - <Switch> renders the first child <Route> that matches
 - A <Route path="*"> always matches
-
 ## Gihthub API
 
 - [Root Endpoint](https://api.github.com)
